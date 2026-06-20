@@ -1,13 +1,13 @@
-baseURL = 'https://liuyi.github.io/'
+baseURL = 'https://dhitvo.github.io/'
 languageCode = 'en-us'
-title = 'Liu Yi 的技术札记'
+title = 'Dhitvo 的技术札记'
 theme = 'PaperMod'
 
 [params]
 description = "工业政策分析、AI 自动化与出海技术指南"
 
 [params.homeInfoParams]
-Title = "Hi, 我是 Liu Yi"
+Title = "Hi, 我是 Dhitvo"
 Content = "技术咨询 | AI 代理部署 | 出海方案。我在这里记录技术避坑心得与工业实践。"
 
 [menu]
