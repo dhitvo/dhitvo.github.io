@@ -1,1 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Dhitvo 的技术札记</title><link>https://dhitvo.github.io/zh/</link><description>Recent content on Dhitvo 的技术札记</description><generator>Hugo</generator><language>zh</language><atom:link href="https://dhitvo.github.io/zh/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Dhitvo 的技术札记</title><link>https://dhitvo.github.io/zh/</link><description>Recent content on Dhitvo 的技术札记</description><generator>Hugo</generator><language>zh</language><atom:link href="https://dhitvo.github.io/zh/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://dhitvo.github.io/zh/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dhitvo.github.io/zh/about/</guid><description>&lt;p&gt;你好，我是 Liu Yi (Dhitvo)。&lt;/p&gt;
+&lt;p&gt;我深耕于工业政策分析、AI 代理 (AI Agent) 系统部署以及企业出海技术方案。在快速迭代的技术浪潮与复杂的全球产业政策之间，我致力于为企业寻找最优的数字化与智能化路径。&lt;/p&gt;
+&lt;p&gt;我的核心领域：&lt;/p&gt;
+&lt;p&gt;工业技术评估： 专注于 Specialized &amp;amp; Sophisticated (小巨人) 企业认定辅导、国家级技术评价体系分析。&lt;/p&gt;
+&lt;p&gt;AI 系统落地： 从本地算力优化（如 FLUX 架构、本地大模型微调）到云端多代理系统（Hermes Agent）的端到端部署。&lt;/p&gt;
+&lt;p&gt;企业出海实践： 针对 wearable module 等领域的市场竞争力分析，助力企业在海外市场建立技术壁垒。&lt;/p&gt;
+&lt;p&gt;我在这里记录技术避坑心得、政策解读及工业实践。如果你对 AI 落地或企业技术出海有任何想法，欢迎交流。&lt;/p&gt;</description></item></channel></rss>
