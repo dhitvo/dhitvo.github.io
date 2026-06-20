@@ -1,13 +1,41 @@
-Hi, I’m Liu Yi (Dhitvo).
+---
+title: "About Dhitvo"
+date: 2026-06-20
+draft: false
+description: "Technical consultant helping businesses with AI deployment, web infrastructure, and compliant global expansion."
+---
 
-I specialize in industrial policy analysis, AI Agent system deployment, and technical consulting for global expansion (Go-Global). Navigating the intersection of rapid technological advancements and complex global industrial policies, I am committed to finding the most effective digital and intelligent paths for enterprises.
+Hi, I'm Liu Yi (Dhitvo).
 
-Core Areas of Expertise:
+I'm a technical consultant based in Asia, helping businesses with AI deployment, web infrastructure, and compliant global expansion. I've worked with **30+ enterprises** on their technical needs.
 
-Industrial Tech Assessment: Providing consulting for "Little Giant" enterprise certifications and analyzing national technical evaluation standards.
+## Primary Focus
 
-AI Systems Implementation: Delivering end-to-end solutions from local computing optimization (e.g., FLUX architecture, LLM fine-tuning) to cloud-based multi-agent system deployment (Hermes Agent).
+**AI Systems** — Multi-agent deployment, automation workflows, LLM integration
 
-Global Expansion Strategy: Conducting market competitiveness analysis for sectors such as wearable modules, helping enterprises build technical moats in overseas markets.
+**Web Infrastructure** — Hosting selection, WordPress, WooCommerce, CDN setup
 
-This blog serves as a repository for my technical insights, policy interpretations, and industrial practice findings. Whether you are exploring AI implementation or seeking technical guidance for international markets, I’m always open to a discussion.
+**Compliant Go-Global** — Data sovereignty, GDPR basics, overseas data center selection
+
+## Background
+
+I also provide enterprise compliance consulting for China-specific certifications and technical standards. This blog focuses on the primary areas above.
+
+## This Blog
+
+You'll find practical guides on:
+
+- AI Agent deployment
+- Web hosting comparisons & WordPress tutorials
+- E-commerce setup (WooCommerce, Shopify)
+- Compliant Go-Global infrastructure strategies
+
+## Contact
+
+**Email:** dhitvo@gmail.com
+
+---
+
+*Affiliate Disclosure: Some links on this website are affiliate links. If you purchase through my link, I may earn a commission at no extra cost to you. I only recommend products I've personally tested.*
+
+*Last updated: June 2026*
