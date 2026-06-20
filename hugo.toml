@@ -34,3 +34,12 @@ theme = 'PaperMod'
     name = "文章"
     url = "posts/"
     weight = 10
+    [[languages.en.menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 20
+
+  [[languages.zh.menu.main]]
+    name = "关于"
+    url = "about/"
+    weight = 20
