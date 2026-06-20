@@ -6,10 +6,12 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    # 强制指定环境名称为 github-pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-        with:
-          submodules: false  # 确保这里是 false，因为我们是手动上传的主题
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
@@ -18,7 +20,8 @@ jobs:
       - name: Build
         run: hugo --minify
       - name: Deploy
+        id: deployment # 增加这个 ID
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public  # 确保这是 Hugo 默认生成的目录
+          publish_dir: ./public
