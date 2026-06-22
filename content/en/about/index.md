@@ -5,7 +5,7 @@ draft: false
 description: "Technical consultant helping cross-border businesses with web infrastructure and compliance."
 ---
 
-Hi, I'm [Your Name].
+Hi, I'm Liuyi (Dhitvo).
 
 I'm a technical consultant helping cross-border e-commerce businesses build their independent online presence. I've worked with **30+ enterprises** across Americas, Europe, and Southeast Asia.
 
