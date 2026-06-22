@@ -1,34 +1,42 @@
 ---
-title: "About Dhitvo"
-date: 2026-06-20
+title: "About"
+date: 2026-06-22
 draft: false
-description: "Technical consultant helping businesses with AI deployment, web infrastructure, and compliant global expansion."
+description: "Technical consultant helping cross-border businesses with web infrastructure and compliance."
 ---
 
-Hi, I'm Liu Yi (Dhitvo).
+Hi, I'm [Your Name].
 
-I'm a technical consultant based in Asia, helping businesses with AI deployment, web infrastructure, and compliant global expansion. I've worked with **30+ enterprises** on their technical needs.
+I'm a technical consultant helping cross-border e-commerce businesses build their independent online presence. I've worked with **30+ enterprises** across Americas, Europe, and Southeast Asia.
 
-## Primary Focus
+## Core Expertise
 
-**AI Systems** — Multi-agent deployment, automation workflows, LLM integration
+**WordPress/WooCommerce Setup** — Corporate websites, e-commerce stores, and content marketing blogs.
 
-**Web Infrastructure** — Hosting selection, WordPress, WooCommerce, CDN setup
+**Web Infrastructure** — Hosting selection, performance optimization, and compliance for global markets (GDPR, CCPA, accessibility).
 
-**Compliant Go-Global** — Data sovereignty, GDPR basics, overseas data center selection
-
-## Background
-
-I also provide enterprise compliance consulting for China-specific certifications and technical standards. This blog focuses on the primary areas above.
+**Business Automation** — AI-powered workflows for customer support, inventory management, and data analysis (deployed on client infrastructure).
 
 ## This Blog
 
-You'll find practical guides on:
+I write practical guides on:
+- Web hosting comparisons and setup tutorials
+- WordPress + WooCommerce for cross-border sellers
+- Compliance infrastructure (payment, SEO, privacy)
+- Automation tools for e-commerce operations
 
-- AI Agent deployment
-- Web hosting comparisons & WordPress tutorials
-- E-commerce setup (WooCommerce, Shopify)
-- Compliant Go-Global infrastructure strategies
+All recommendations are based on real projects with actual clients.
+
+## 📞 Need a Technical Audit?
+
+I offer a **free 15-minute technical architecture review** for cross-border businesses.
+
+**Reach out if you're struggling with:**
+- Slow independent site performance
+- Delayed customer inquiry responses
+- Compliance risks (GDPR, CCPA, payment)
+
+Email [dhitvo@gmail.com](mailto:dhitvo@gmail.com) with a brief description of your situation. I'll reply with initial diagnostic suggestions.
 
 ## Contact
 
