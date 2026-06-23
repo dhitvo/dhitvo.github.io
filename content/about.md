@@ -4,8 +4,6 @@ date: 2026-06-21
 draft: false
 ---
 
-# About
-
 Hi, I'm Liuyi (Dhitvo).
 
 I help solo cross-border sellers set up their tech stack — so they can sleep through the night instead of waking up to reply to customers at 3 AM.

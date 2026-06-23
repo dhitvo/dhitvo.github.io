@@ -1,10 +1,8 @@
 ---
 title: "关于我"
-date: 2026-06-23
+date: 2026-06-21
 draft: false
 ---
-
-# 关于我
 
 你好，我是刘一（Dhitvo）。
 
