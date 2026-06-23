@@ -1,49 +1,61 @@
 ---
 title: "About"
-date: 2026-06-22
+date: 2026-06-21
 draft: false
-description: "Technical consultant helping cross-border businesses with web infrastructure and compliance."
 ---
+
+# About
 
 Hi, I'm Liuyi (Dhitvo).
 
-I'm a technical consultant helping cross-border e-commerce businesses build their independent online presence. I've worked with **30+ enterprises** across Americas, Europe, and Southeast Asia.
+I help solo cross-border sellers set up their tech stack — so they can sleep through the night instead of waking up to reply to customers at 3 AM.
 
-## Core Expertise
+I know what it's like because I've been in the trenches. Over the past years, I've helped dozens of independent sellers across Americas, Europe, and Southeast Asia get their websites running, automate their customer support, and stop worrying about compliance fines.
 
-**WordPress/WooCommerce Setup** — Corporate websites, e-commerce stores, and content marketing blogs.
+## What I Do
 
-**Web Infrastructure** — Hosting selection, performance optimization, and compliance for global markets (GDPR, CCPA, accessibility).
+**Build Your Store.** WordPress + WooCommerce setup, from domain to launch. Fast, clean, and optimized for conversions — not a bloated theme with 47 plugins you'll never use.
 
-**Business Automation** — AI-powered workflows for customer support, inventory management, and data analysis (deployed on client infrastructure).
+**Automate the Grind.** AI-powered customer service bots that answer 80% of repetitive questions instantly. Inventory alerts. Order classification. The stuff that eats your evenings — automated, deployed on your own server, running while you sleep.
+
+**Keep You Compliant.** GDPR cookie consent that actually works. Privacy policy that doesn't get you fined. Payment gateways configured for your target markets. No legal jargon, just practical setup.
+
+## Who I Work With
+
+If you're running a cross-border e-commerce business with a team of 1 to 5 people — where everyone wears three hats, customer support is whoever's still awake, and nobody has time to figure out why the site is slow — you're exactly who I write for.
+
+You don't need an in-house CTO. You need someone who can set things up right the first time, explain what matters in plain language, and be available when something breaks.
+
 
 ## This Blog
 
-I write practical guides on:
-- Web hosting comparisons and setup tutorials
-- WordPress + WooCommerce for cross-border sellers
-- Compliance infrastructure (payment, SEO, privacy)
-- Automation tools for e-commerce operations
+I write practical, no-fluff guides:
 
-All recommendations are based on real projects with actual clients.
+- **Hosting reviews & comparisons** — real tests, not affiliate rankings
+- **WordPress + WooCommerce tutorials** — for sellers who aren't developers
+- **AI automation for e-commerce** — customer service bots, ops workflows, data tools
+- **Compliance essentials** — GDPR, CCPA, payments, SEO
 
-## 📞 Need a Technical Audit?
+Every recommendation comes from tools I've personally deployed for real clients.
 
-I offer a **free 15-minute technical architecture review** for cross-border businesses.
+## Free 15-Minute Tech Audit
 
-**Reach out if you're struggling with:**
-- Slow independent site performance
-- Delayed customer inquiry responses
-- Compliance risks (GDPR, CCPA, payment)
+If you're struggling with any of these:
 
-Email [dhitvo@gmail.com](mailto:dhitvo@gmail.com) with a brief description of your situation. I'll reply with initial diagnostic suggestions.
+- Your site loads slow and you're losing customers
+- You're replying to the same customer questions over and over at midnight
+- You're not sure which hosting plan actually fits your budget and traffic
+- You're worried about GDPR/CCPA but don't know where to start
+
+**Send me an email** at [dhitvo@gmail.com](mailto:dhitvo@gmail.com). Tell me your situation in a few sentences — team size, current setup, what's hurting most. I'll reply with a diagnostic and the first 2-3 things you should fix. No sales pitch, no strings attached.
+
 
 ## Contact
 
-**Email:** dhitvo@gmail.com
+**Email:** [dhitvo@gmail.com](mailto:dhitvo@gmail.com)
 
 ---
 
-*Affiliate Disclosure: Some links on this website are affiliate links. If you purchase through my link, I may earn a commission at no extra cost to you. I only recommend products I've personally tested.*
+*Affiliate Disclosure: Some links on this site are affiliate links. If you purchase through my link, I may earn a commission — at no extra cost to you. I only recommend products I use myself or have deployed for clients. Trust is harder to earn than commissions.*
 
 *Last updated: June 2026*
