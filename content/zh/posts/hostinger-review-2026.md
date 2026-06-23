@@ -1,6 +1,6 @@
 ---
 title: "Hostinger 2026 实测：一到五人的跨境小团队，选哪个套餐最划算？"
-date: 2026-06-24
+date: 2026-06-21
 draft: false
 tags: ["主机测评", "建站", "WooCommerce"]
 ---
