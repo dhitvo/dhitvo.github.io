@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Dhitvo 的技术札记</title><link>https://dhitvo.github.io/zh/</link><description>Recent content on Dhitvo 的技术札记</description><generator>Hugo</generator><language>zh</language><lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dhitvo.github.io/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>Hostinger vs Cloudways vs DigitalOcean：2026 跨境电商主机实测对比</title><link>https://dhitvo.github.io/zh/posts/infrastructure1_cn/</link><pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate><guid>https://dhitvo.github.io/zh/posts/infrastructure1_cn/</guid><description>3 款热门主机提供商的真实速度测试与价格对比。哪款适合你的电商发展阶段？</description></item><item><title>关于我</title><link>https://dhitvo.github.io/zh/about/</link><pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate><guid>https://dhitvo.github.io/zh/about/</guid><description>技术咨询顾问，帮助跨境企业搭建海外网络基础设施。</description></item><item><title>基础设施选型：为什么海外云主机是跨境 Agent 的标配？</title><link>https://dhitvo.github.io/zh/posts/infrastructure_cn/</link><pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate><guid>https://dhitvo.github.io/zh/posts/infrastructure_cn/</guid><description>深度解析跨境业务中，为什么 AI Agent 部署需要海外基础设施来实现 API 连接、合规性和延迟优化。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Dhitvo 的技术札记</title><link>https://dhitvo.github.io/zh/</link><description>Recent content on Dhitvo 的技术札记</description><generator>Hugo</generator><language>zh</language><lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dhitvo.github.io/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>关于我</title><link>https://dhitvo.github.io/zh/about/</link><pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate><guid>https://dhitvo.github.io/zh/about/</guid><description>&lt;h1 id="关于我"&gt;关于我&lt;/h1&gt;
+&lt;p&gt;你好，我是刘一（Dhitvo）。&lt;/p&gt;
+&lt;p&gt;我帮一个人做跨境的卖家把技术栈搭好——让你不用凌晨三点爬起来回客户消息。&lt;/p&gt;
+&lt;p&gt;这些年我帮过数十位独立卖家，客户分布在美洲、欧洲和东南亚。我不做花哨的 PPT，只做一件事：&lt;strong&gt;把你的网站、客服、合规一次性搞对，你只管卖货。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id="我能帮你做什么"&gt;我能帮你做什么&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建站部署。&lt;/strong&gt; WordPress + WooCommerce 从域名到上线一条龙。不用装 47 个插件，干净、够快、能出单就行。用 Hostinger 共享主机跑起来，一个月不到一顿饭钱。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI 替你干活。&lt;/strong&gt; 给你搭一个智能客服机器人，80% 的重复问题它替你回——&amp;ldquo;有货吗&amp;quot;&amp;ldquo;多久到&amp;quot;&amp;ldquo;怎么退&amp;rdquo;。库存告警、订单归类这些每天重复的操作也自动化。部署在你自己的服务器上，你在睡觉，它在干活。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;合规别踩坑。&lt;/strong&gt; GDPR 弹窗不是随便装个插件就完事的。隐私政策模板、支付网关配置、目标市场合规要点——不讲法律条文，只讲你具体要改哪里。&lt;/p&gt;
+&lt;h2 id="我写给谁看"&gt;我写给谁看&lt;/h2&gt;
+&lt;p&gt;如果你是一到五人的小团队做跨境——每个人都身兼数职，客服就是谁还没睡谁来回消息，没人有空研究网站为什么这么慢——那这个博客就是为你写的。&lt;/p&gt;
+&lt;p&gt;你不需要招一个技术合伙人。你需要一个人帮你把事情一次做对，用人话解释清楚，出了问题找得到人。&lt;/p&gt;
+&lt;h2 id="这个博客写什么"&gt;这个博客写什么&lt;/h2&gt;
+&lt;p&gt;只写我实际做过的东西：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;主机实测对比&lt;/strong&gt; —— 不是照着参数表念，是真买真测&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WordPress 建站教程&lt;/strong&gt; —— 给不是程序员的人看的&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI 自动化工具&lt;/strong&gt; —— 客服机器人、运营自动化、数据工具，免费开源可用&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;合规避坑指南&lt;/strong&gt; —— GDPR、支付、SEO，让你别收到罚单才后悔&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="免费-15-分钟技术诊断"&gt;免费 15 分钟技术诊断&lt;/h2&gt;
+&lt;p&gt;如果你正在被这些问题困扰：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;网站打开慢，客户等 5 秒就跑了&lt;/li&gt;
+&lt;li&gt;凌晨还在回重复的客服消息&lt;/li&gt;
+&lt;li&gt;不知道选哪家主机，预算有限怕踩坑&lt;/li&gt;
+&lt;li&gt;听说 GDPR 会罚款，但不知道自己的站哪里不合规&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;直接发邮件&lt;/strong&gt;到 &lt;a href="mailto:dhitvo@gmail.com"&gt;dhitvo@gmail.com&lt;/a&gt;，用几句话描述你的情况——团队规模、当前在用方案、最头疼的问题。我会回复诊断意见和最该改的 2-3 件事。不推销，不收费。&lt;/p&gt;
+&lt;h2 id="联系方式"&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;邮箱：&lt;/strong&gt; &lt;a href="mailto:dhitvo@gmail.com"&gt;dhitvo@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;联盟营销披露：本站部分链接为联盟链接。通过我的链接购买，我可能获得佣金，不会增加你的任何额外费用。我只推荐自己用过或帮客户部署过的产品。信任比佣金值钱。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;最后更新：2026 年 6 月&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
